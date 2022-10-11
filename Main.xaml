@@ -62,6 +62,6 @@
     </sap:WorkflowViewStateService.ViewState>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="356.8,72" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="GitSample Version 1" />
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="356.8,72" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="GitSample Version 6" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="356.8,102.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;hello world&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="356.8,102.4" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;hello world Parth&quot;]" />
   </Sequence>
 </Activity>
